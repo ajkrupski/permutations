@@ -1,0 +1,15 @@
+C:\Users\alexw\source\repos\Permutations\Permutations\bin\Debug\net6.0\Permutations.exe
+C:\Users\alexw\source\repos\Permutations\Permutations\bin\Debug\net6.0\Permutations.deps.json
+C:\Users\alexw\source\repos\Permutations\Permutations\bin\Debug\net6.0\Permutations.runtimeconfig.json
+C:\Users\alexw\source\repos\Permutations\Permutations\bin\Debug\net6.0\Permutations.dll
+C:\Users\alexw\source\repos\Permutations\Permutations\bin\Debug\net6.0\ref\Permutations.dll
+C:\Users\alexw\source\repos\Permutations\Permutations\bin\Debug\net6.0\Permutations.pdb
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\Permutations.csproj.AssemblyReference.cache
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfoInputs.cache
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfo.cs
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\Permutations.dll
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\ref\Permutations.dll
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\Permutations.pdb
+C:\Users\alexw\source\repos\Permutations\Permutations\obj\Debug\net6.0\Permutations.genruntimeconfig.cache
